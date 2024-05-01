@@ -154,25 +154,18 @@ projects:
     intro: >
       This is a selection of my geospatial remote sensing projects.
     assignments:
-      - title: Velocity
-        link: "#hook"
-        tagline: "A responsive website template designed to help startups promote, market and sell their products."
+      - title: Landsat NDVI Time Series 1988-2023, Blue Mountains National Park
+        link: ""
+        tagline: "A Normalised Difference Vegetation Index (NDVI) time series was used to assess the spatial and temporal dynamics of native vegetation in a portion of the Blue Mountains National Park, New South Wales, Australia, for the 36-year period 1988-2023. "
 
-      - title: DevStudio
-        link: "#"
-        tagline: "A responsive website template designed to help web developers/designers market their services."
+      - title: Beginner’s Guide to Remote Sensing With Python
+        link: ""
+        tagline: "Tutorials at a level accessible to people with minimal to intermediate Python experience, covering common remote sensing tasks."
 
-      - title: Tempo
-        link: "#"
-        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
+      - title: Sentinel 2 Change Detection, Greater Blue Mountains World Heritage Area
+        link: ""
+        tagline: "Change detection using remote sensing to identify areas of change within the Greater Blue Mountains World Heritage Area."
 
-      - title: Atom
-        link: "#"
-        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
-
-      - title: Delta
-        link: "#"
-        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
 
 # oss:
 #     title: OSS Contributions
