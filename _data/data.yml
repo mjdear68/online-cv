@@ -190,7 +190,7 @@ projects:
       This is a selection of my geospatial remote sensing projects.
     assignments:
       - title: Landsat NDVI Time Series 1988-2023, Blue Mountains National Park
-        link: ""
+        link: "projects/bm_np_1988_2023.md"
         tagline: "A Normalised Difference Vegetation Index (NDVI) time series was used to assess the spatial and temporal dynamics of native vegetation in a portion of the Blue Mountains National Park, New South Wales, Australia, for the 36-year period 1988-2023. "
 
       - title: Beginner’s Guide to Remote Sensing With Python
