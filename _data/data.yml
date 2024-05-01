@@ -59,32 +59,7 @@ career-profile:
     summary: |
         I am passionate about using remote sensing and geospatial analysis to help build a more just and sustainable world. In 2023-2024 I completed a research project while studying with the University of New England, Australia, in which I used a Landsat NDVI time series to investigate the spatial and temporal dynamics of vegetation in the Blue Mountains National Park, NSW. Based on this experience, I am now pursuing a career in remote sensing and geospatial analysis.
 
-# education:
-#     title: Education
-#     info:
-#       - degree: MSc in Computer Science
-#         university: University of London
-#         time: 2011 - 2012
-#         details: |
-#           Describe your study here lorem ipsum dolor sit amet, consectetuer
-#           adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-#           sociis natoque penatibus et magnis dis parturient montes, nascetur
-#           ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-#           pretium quis, sem.
-#             - Bullet point
-#             - Bullet point
-#       - degree: BSc in Applied Mathematics
-#         university: Bristol University
-#         time: 2007 - 2011
-#         details: |
-#           Describe your study here lorem ipsum dolor sit amet, consectetuer
-#           adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-#           sociis natoque penatibus et magnis dis parturient montes, nascetur
-#           ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-#           pretium quis, sem.
-#             - Bullet point
-#             - Bullet point
-            
+
 education:
     title: Education
     info: 
@@ -100,6 +75,25 @@ education:
         university: University of New England, Australia
         time: Graduation pending 2024
         details: |
+
+
+projects:
+    title: Projects
+    intro: >
+      This is a selection of my geospatial remote sensing projects.
+    assignments:
+      - title: Landsat NDVI Time Series 1988-2023, Blue Mountains National Park
+        link: "projects/bm_np_1988_2023.html"
+        tagline: "A Normalised Difference Vegetation Index (NDVI) time series was used to assess the spatial and temporal dynamics of native vegetation in a portion of the Blue Mountains National Park, New South Wales, Australia, for the 36-year period 1988-2023. "
+
+      - title: Beginner’s Guide to Remote Sensing With Python
+        link: ""
+        tagline: "Tutorials at a level accessible to people with minimal to intermediate Python experience, covering common remote sensing tasks."
+
+      - title: Sentinel 2 Change Detection, Greater Blue Mountains World Heritage Area
+        link: ""
+        tagline: "Change detection using remote sensing to identify areas of change within the Greater Blue Mountains World Heritage Area."
+
 
 
 # experiences:
@@ -183,23 +177,6 @@ education:
 #             Pellentesque et nibh suscipit, vestibulum turpis eu, semper tortor.
 #             Praesent felis nibh, eleifend id eleifend id, dictum id enim.
 #             Praesent venenatis erat non augue suscipit consectetur.
-
-projects:
-    title: Projects
-    intro: >
-      This is a selection of my geospatial remote sensing projects.
-    assignments:
-      - title: Landsat NDVI Time Series 1988-2023, Blue Mountains National Park
-        link: "projects/bm_np_1988_2023.md"
-        tagline: "A Normalised Difference Vegetation Index (NDVI) time series was used to assess the spatial and temporal dynamics of native vegetation in a portion of the Blue Mountains National Park, New South Wales, Australia, for the 36-year period 1988-2023. "
-
-      - title: Beginner’s Guide to Remote Sensing With Python
-        link: ""
-        tagline: "Tutorials at a level accessible to people with minimal to intermediate Python experience, covering common remote sensing tasks."
-
-      - title: Sentinel 2 Change Detection, Greater Blue Mountains World Heritage Area
-        link: ""
-        tagline: "Change detection using remote sensing to identify areas of change within the Greater Blue Mountains World Heritage Area."
 
 
 # oss:
