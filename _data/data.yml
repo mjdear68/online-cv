@@ -61,11 +61,19 @@ career-profile:
         
 education:
     title: Education
-    info: |
-        * Bachelor of Science from University of New England, NSW, Australia. Graduated 2003.
-        * Graduate Diploma in Education from University of New England, NSW, Australia. Graduated 2004.
-        * Graduate Diploma in Science (Applied Statistics) from University of New England, NSW, Australia. Completed; graduation pending.
-       
+    info:
+      - degree: Bachelor of Science, BSc
+        university: University of New England, Australia
+        time: Graduated 2003
+        details: |
+    - degree: Graduate Diploma in Education, GradDipEd
+        university: University of New England, Australia
+        time: Graduated 2004
+        details: |
+    - degree: Graduate Diploma in Science (Applied Statistics), GradDipSci
+        university: University of New England, Australia
+        time: Graduation pending 2024
+        details: |
 
 
 # experiences:
