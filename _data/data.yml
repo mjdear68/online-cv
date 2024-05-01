@@ -61,7 +61,7 @@ career-profile:
         
 education:
     title: Education
-    info:
+    info: |
       - degree: Bachelor of Science, BSc
         university: University of New England, Australia
         time: Graduated 2003
