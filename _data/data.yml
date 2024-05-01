@@ -28,7 +28,7 @@ sidebar:
     # stack-overflow: # Number/Username, e.g. 123456/alandoe
     # codewars:
     # goodreads: # Number-Username, e.g. 123456-alandoe
-    pdf: '/assets/pdf/MDear Resume - Data and Geospatial.pdf'
+    pdf: 'assets/pdf/MDear Resume - Data and Geospatial.pdf'
 
     # languages:
     #   title: Languages
@@ -170,9 +170,7 @@ career-profile:
 projects:
     title: Projects
     intro: >
-      You can list your side projects in this
-      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
+      This is a selection of my geospatial remote sensing projects.
     assignments:
       - title: Velocity
         link: "#hook"
