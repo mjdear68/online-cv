@@ -18,7 +18,7 @@ for i, ax in enumerate(fg.axs.flat):
 fg.fig.suptitle('NDVI Spring Summer 2019-2020', y=1.05, fontsize=14);
 ```
 
-![Beginner's Guide to Remote Sensing With Python Project](/img/BGtoRS.png)
+<img src="img/BGtoRS.png" alt="Beginner's Guide to Remote Sensing With Python Project" style="width:580px;"/>
 
 
 [View the Project on GitHub >>](https://github.com/mjdear68/Beginners_Guide_to_Remote_Sensing_With_Python)
