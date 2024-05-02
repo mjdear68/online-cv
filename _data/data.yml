@@ -87,11 +87,11 @@ projects:
         tagline: "A Normalised Difference Vegetation Index (NDVI) time series was used to assess the spatial and temporal dynamics of native vegetation in a portion of the Blue Mountains National Park, New South Wales, Australia, for the 36-year period 1988-2023. "
 
       - title: Beginner’s Guide to Remote Sensing With Python
-        link: ""
+        link: "projects/beginners_guide.html"
         tagline: "Tutorials at a level accessible to people with minimal to intermediate Python experience, covering common remote sensing tasks."
 
       - title: Sentinel 2 Change Detection, Greater Blue Mountains World Heritage Area
-        link: ""
+        link: "projects/GBM_KBA.html"
         tagline: "Change detection using remote sensing to identify areas of change within the Greater Blue Mountains World Heritage Area."
 
 
