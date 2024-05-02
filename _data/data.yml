@@ -92,7 +92,9 @@ projects:
 
       - title: Sentinel 2 Change Detection, Greater Blue Mountains World Heritage Area
         link: ""
-        tagline: "Change detection using remote sensing to identify areas of change within the Greater Blue Mountains World Heritage Area."
+        tagline: "Change detection using remote sensing to identify areas of change within the Greater Blue Mountains World Heritage Area.
+                <br>
+                <img src="img/GBM_banner.png" alt="Greater Blue Mountains World Heritage Area Project" style="width:580px;">"
 
 
 
